@@ -16,5 +16,7 @@
 <img src="https://user-images.githubusercontent.com/87750521/126892084-82aaf776-8baf-4a6b-9de4-c133240f8c4c.png" width="500" height="330">
 
 ### 결과
+ - 아주 재미 없어요를 입력하였을 때 96%의 정확도로 부정임을 판별
+ - 단어의 포함 여부를 바탕으로 학습하였기 때문의 중의적 표현, 비꼬는 듯한 리뷰에서의 정확도는 다소 떨어지는 것으로 보여짐
 <img src="https://user-images.githubusercontent.com/87750521/126892154-e167b670-fa8c-4c3e-9134-2b529f29fb39.png" width="500" height="80">
 
