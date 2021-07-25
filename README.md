@@ -10,7 +10,11 @@
  - 영화평과 그 영화평에 긍정 혹은 부정으로 나타내져있는 2열(리뷰, 평가)의 데이터를 사용
  - 데이터를 토큰화(문장을 단어 형태로 토큰화)
  - 토큰화된 단어의 사용빈도를 확인(Matplotlib을 사용하여 시각화)
-<img src="https://user-images.githubusercontent.com/87750521/126892084-82aaf776-8baf-4a6b-9de4-c133240f8c4c.png" width="500" height="330">
  - 자주사용된 단어 상위 100개를 원핫인코딩
  - 단어에 사용에 따른 긍정, 부정 분류 학습
  - 긍정적인 리뷰에 사용된 단어, 부정적인 리뷰에 사용된 단어를 학습하고 이에 따라 입력된 리뷰를 판별
+<img src="https://user-images.githubusercontent.com/87750521/126892084-82aaf776-8baf-4a6b-9de4-c133240f8c4c.png" width="500" height="330">
+
+### 결과
+<img src="https://user-images.githubusercontent.com/87750521/126892154-e167b670-fa8c-4c3e-9134-2b529f29fb39.png" width="500" height="80">
+
